@@ -26,7 +26,7 @@ SECRET_KEY = 'k1ide+z2!unu=s^*mv*la5f0*$ynz8++)b+ke^gxg0*l8ln_$('
 # DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = ['127.0.0.1','evening-island-97357.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','evening-island-97357.herokuapp.com']
 
 
 # Application definition
